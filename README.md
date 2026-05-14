@@ -4,7 +4,7 @@
 
 <div align="center">
   
-# Bobsoapwins
+# bobsoapwins
 **Software engineer • AI nerd • Development enthusiast**
 
 </div>
@@ -26,7 +26,8 @@
   ---
 
   - Any questions, comments, or concerns can be sent to my [email](mailto:northdunne@gmail.com)
-  - Projects can be found in the [repositories](https://github.com/bobsoapwins?tab=repositories) tab of my profile
+  - Repos can be found in the [repositories](https://github.com/bobsoapwins?tab=repositories) tab of my profile
+  - Lists of all pull requests and issues can be found in the [projects](https://github.com/bobsoapwins?tab=projects) tab of my profile
 
 ---
 
