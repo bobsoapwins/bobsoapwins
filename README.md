@@ -1,5 +1,5 @@
 >[!IMPORTANT]
-> Due to it being summer break and due to various security vulnerabilities inside my public repos, I have decided to make them private to remediate them. They will re-launch the week of Monday, August 31 this year. I apologize for any inconvenience.
+> Due to it being summer break and due to various security vulnerabilities inside my public repos, I have decided to make them private to remediate them. gradual rollout of the repositories will take place and hopefully finish by the week of Monday, August 31 this year. I apologize for any inconvenience.
 
 ---
 
