@@ -1,5 +1,5 @@
 >[!IMPORTANT]
-> Due to it being summer break and due to various security vulnerabilities inside my public repos, I have decided to make them private to remediate them. gradual rollout of the repositories will take place and hopefully finish by the week of Monday, August 31 this year. I apologize for any inconvenience.
+> Due to it being summer break and due to various security vulnerabilities inside my public repos, I have decided to make them private to remediate them. gradual rollout of the repositories will take place. Repositories will be released in batches, 1 to 4 at a time. I apologize for any inconvenience.
 
 >[!CAUTION]
 > Gradual rollout has started and public repositories may still have security vulnerabilities.
